@@ -73,7 +73,3 @@ noremap k j
 noremap i k
 noremap , i
 
-export OPENAI_KEY="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"
-
-export PATH=${PATH}:/Users/mlg/Documents/A-project/AI/GapitaCLI
-
